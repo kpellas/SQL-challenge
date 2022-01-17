@@ -5,6 +5,7 @@
 -- DROP TABLE IF EXISTS departments;
 -- DROP TABLE IF EXISTS titles;
 
+-- Create tables and set datatypes, keys and other contraints
 CREATE TABLE "departments" (
   "dept_no" VARCHAR(10),
   "dept_name" VARCHAR(30),
